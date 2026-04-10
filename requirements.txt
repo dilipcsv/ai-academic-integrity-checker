@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pdfplumber
+pytesseract
+opencv-python
+numpy
+pdf2image
+Pillow
